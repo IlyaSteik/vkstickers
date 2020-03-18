@@ -1,0 +1,58 @@
+.card-button {
+    height: 120px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.01);
+    box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.01);
+    margin-left: 12px;
+    margin-right: 12px;
+    width: calc(100% - 24px);
+    margin-bottom: 12px;
+}
+
+.card-button .inner {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.card-button .left {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.card-button .title {
+    height: 22px;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.29;
+    letter-spacing: -0.4px;
+    color: #fff;
+    margin-bottom: 6px;
+    margin-left: 16px;
+}
+
+.card-button .desc {
+    opacity: 0.72;
+    font-size: 13px;
+    line-height: 1.23;
+    letter-spacing: -0.1px;
+    color: #fff;
+    margin-left: 16px;
+    margin-bottom: 4px;
+}
+
+.card-button .img {
+    width: 80px;
+    min-width: 80px;
+    height: 80px;
+    margin: 20px 20px 20px 16px;
+}
