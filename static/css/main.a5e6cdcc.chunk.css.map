@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,aACI,YAAa,CACb,iBAAkB,CAClB,qBACJ","file":"main.a5e6cdcc.chunk.css","sourcesContent":[".centeredDiv {\r\n    display: flex;\r\n    alignItems: center;\r\n    justifyContent: center;\r\n}"]}
