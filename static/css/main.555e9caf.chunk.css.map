@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACI,YAAa,CACb,kBAAmB,CACnB,sBACJ,CAEA,oBACI,WACJ","file":"main.555e9caf.chunk.css","sourcesContent":[".centered {\r\n    display: flex;\r\n    align-items: center;\r\n    justify-content: center;\r\n}\r\n\r\n.container_stickers {\r\n    height: 80vh;\r\n}"]}
