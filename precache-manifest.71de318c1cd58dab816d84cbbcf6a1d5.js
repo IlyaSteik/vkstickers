@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "529149f9081415d53a27cbfe10663721",
+    "revision": "62c6902844557778bc94f5e16c4b99f4",
     "url": "/vkstickers/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkstickers/static/css/2.733ba2d0.chunk.css"
   },
   {
-    "revision": "2b9e0373895009cfba4b",
+    "revision": "3831408fa5ac723d1186",
     "url": "/vkstickers/static/css/main.e677441c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vkstickers/static/js/2.1addd293.chunk.js"
   },
   {
-    "revision": "2b9e0373895009cfba4b",
-    "url": "/vkstickers/static/js/main.d5428bfa.chunk.js"
+    "revision": "3831408fa5ac723d1186",
+    "url": "/vkstickers/static/js/main.4cbf4d0f.chunk.js"
   },
   {
     "revision": "99c773c3c59c4155db8c",
