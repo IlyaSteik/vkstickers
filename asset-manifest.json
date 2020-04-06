@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vkstickers/static/css/main.8d0701a0.chunk.css",
-    "main.js": "/vkstickers/static/js/main.a0fe38e1.chunk.js",
-    "main.js.map": "/vkstickers/static/js/main.a0fe38e1.chunk.js.map",
+    "main.js": "/vkstickers/static/js/main.0cb41ccb.chunk.js",
+    "main.js.map": "/vkstickers/static/js/main.0cb41ccb.chunk.js.map",
     "runtime-main.js": "/vkstickers/static/js/runtime-main.dc5761cc.js",
     "runtime-main.js.map": "/vkstickers/static/js/runtime-main.dc5761cc.js.map",
     "static/css/2.4fc5a6bc.chunk.css": "/vkstickers/static/css/2.4fc5a6bc.chunk.css",
     "static/js/2.b4c49794.chunk.js": "/vkstickers/static/js/2.b4c49794.chunk.js",
     "static/js/2.b4c49794.chunk.js.map": "/vkstickers/static/js/2.b4c49794.chunk.js.map",
     "index.html": "/vkstickers/index.html",
-    "precache-manifest.8f21ae6a042e8f18d0b7a1ac472eea2a.js": "/vkstickers/precache-manifest.8f21ae6a042e8f18d0b7a1ac472eea2a.js",
+    "precache-manifest.e951593b7e8437a96a812ec94cda6da1.js": "/vkstickers/precache-manifest.e951593b7e8437a96a812ec94cda6da1.js",
     "service-worker.js": "/vkstickers/service-worker.js",
     "static/css/2.4fc5a6bc.chunk.css.map": "/vkstickers/static/css/2.4fc5a6bc.chunk.css.map",
     "static/css/main.8d0701a0.chunk.css.map": "/vkstickers/static/css/main.8d0701a0.chunk.css.map"
