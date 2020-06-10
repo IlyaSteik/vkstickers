@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/vkstickers/static/css/main.7ca0c51d.chunk.css",
-    "main.js": "/vkstickers/static/js/main.2ddebbbf.chunk.js",
+    "main.js": "/vkstickers/static/js/main.fd5e6050.chunk.js",
     "runtime-main.js": "/vkstickers/static/js/runtime-main.dc5761cc.js",
     "static/css/2.786dd48f.chunk.css": "/vkstickers/static/css/2.786dd48f.chunk.css",
     "static/js/2.2cb2d466.chunk.js": "/vkstickers/static/js/2.2cb2d466.chunk.js",
     "index.html": "/vkstickers/index.html",
-    "precache-manifest.995ff834c115782bf85dd0bcac12789a.js": "/vkstickers/precache-manifest.995ff834c115782bf85dd0bcac12789a.js",
+    "precache-manifest.64e0065fbf910db89c48c9bb916e9248.js": "/vkstickers/precache-manifest.64e0065fbf910db89c48c9bb916e9248.js",
     "service-worker.js": "/vkstickers/service-worker.js"
   }
 }
