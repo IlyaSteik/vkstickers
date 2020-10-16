@@ -14,6 +14,8 @@ class App extends React.Component {
 	constructor(props) {
 		super(props);
 
+		console.log('test');
+
 		this.state = {
 			popout: <ScreenSpinner/>,
 			activeStory: 'tab_main',
